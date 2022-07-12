@@ -4,6 +4,31 @@
       "route": "https://datathirst.co.uk/*",
       "redirect": "https://datathirst.dev/*",
       "statusCode": 301
+    },
+    {
+      "route": "/projects/dbfs-explorer",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/projects",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/services",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/contact",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/",
+      "redirect": "/",
+      "statusCode": 301
     }
   ],
   "trailingSlash": "auto",
