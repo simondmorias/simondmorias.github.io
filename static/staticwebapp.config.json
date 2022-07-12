@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "route": "https://datathirst.co.uk/*",
+      "redirect": "https://datathirst.dev/*",
+      "statusCode": 301
+    }
+  ],
+  "trailingSlash": "auto",
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
+  }
+}
