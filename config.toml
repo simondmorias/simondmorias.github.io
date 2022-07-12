@@ -1,4 +1,4 @@
-baseURL = 'https://yellow-desert-0d03aa003.1.azurestaticapps.net/'
+baseURL = 'https://datathirst.dev/'
 languageCode = 'en-gb'
 title = "Simon's Blog"
 theme = 'beautifulhugo'
