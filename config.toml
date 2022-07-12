@@ -1,4 +1,4 @@
-baseURL = 'https://simondmorias.github.io/'
+baseURL = 'https://yellow-desert-0d03aa003.1.azurestaticapps.net/'
 languageCode = 'en-gb'
 title = "Simon's Blog"
 theme = 'beautifulhugo'
