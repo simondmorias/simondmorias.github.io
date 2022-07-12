@@ -1,4 +1,4 @@
-baseURL = 'https://datathirst.dev/'
+baseURL = 'https://datathirst.net/'
 languageCode = 'en-gb'
 title = "Simon's Blog"
 theme = 'beautifulhugo'

@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "https://datathirst.co.uk/*",
-      "redirect": "https://datathirst.dev/*",
+      "redirect": "https://datathirst.net/*",
       "statusCode": 301
     },
     {
