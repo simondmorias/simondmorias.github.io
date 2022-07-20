@@ -2,6 +2,7 @@ baseURL = 'https://datathirst.net/'
 languageCode = 'en-gb'
 title = "Simon's Blog"
 theme = 'beautifulhugo'
+googleAnalytics = "= UA-111778437-1"
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
