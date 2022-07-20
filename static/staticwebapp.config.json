@@ -26,8 +26,8 @@
       "statusCode": 301
     },
     {
-      "route": "/blog/tag/",
-      "rewrite": "/tag/"
+      "route": "/blog/tag/*",
+      "rewrite": "/tags/"
     },
     {
       "route": "/blog/",
