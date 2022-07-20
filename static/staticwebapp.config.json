@@ -26,6 +26,10 @@
       "statusCode": 301
     },
     {
+      "route": "/blog/tags/",
+      "rewrite": "/tags/"
+    },
+    {
       "route": "/blog/",
       "redirect": "/",
       "statusCode": 301
